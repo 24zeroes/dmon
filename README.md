@@ -7,8 +7,8 @@ This app is my first try to use Golang in backend development!
 # Tech details
 On server side I'm using:
 - [Golang](https://golang.org)
-- [Gin](github.com/gin-gonic/gin) as web server
-- [Viper](github.com/spf13/viper) as configuration solution 
+- [Gin](https://github.com/gin-gonic/gin) as web server
+- [Viper](https://github.com/spf13/viper) as configuration solution 
 
 On client side I'm planning to use:
 - React as ui render library
